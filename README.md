@@ -57,6 +57,10 @@ The interactive Excel dashboard provides insights into:
 - Employee performance
 - Revenue, orders, quantity, and margin analysis
 
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Dashboard_Screenshot.png)
+
 ## Data Analysis
 
 The project uses Excel formulas, Pivot Tables, Pivot Charts, filters, and dynamic functions to transform raw sales data into meaningful business insights.
